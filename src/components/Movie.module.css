@@ -1,0 +1,22 @@
+.container {
+  display: flex;
+  flex-direction: row;
+  background-color: #000;
+  color: white;
+}
+.padding {
+  padding: 10px;
+}
+.titleImg {
+  width: 150px;
+  height: 230px;
+}
+.link {
+  color: lightgreen;
+  text-decoration: none;
+}
+
+.link:hover {
+  color: lightgreen;
+  font-size: 30px;
+}
